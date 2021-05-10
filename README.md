@@ -1,1 +1,1 @@
-# dsc-clt-intro-v2-2
+# Central Limit Theorem and Confidence Intervals - Introduction
