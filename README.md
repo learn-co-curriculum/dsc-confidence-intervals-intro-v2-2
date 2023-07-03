@@ -6,7 +6,7 @@ In this section, you'll be introduced to inferential statistics. In particular, 
 
 ## Managing Uncertainty When Reporting Numbers
 
-Let's start with an example: you work for a furniture company that wants to develop a desk chair specifically designed for 12-year-old children. Your boss wants to know how tall the back of the chair should be, to accommodate this customer segment.
+Let's start with an example: you work for a furniture company that wants to develop a desk chair specifically designed for 12-year-old children. Your boss wants to know how tall the back of the chair should be to accommodate this customer segment.
 
 Obviously you are not able to get measurements for all 12-year-olds in the history of time. In fact, the actual children who are likely to use this chair are not even 12 years old yet, since the chair hasn't been developed and manufactured yet! So, it won't be possible to measure your population of interest directly. Instead, you'll need to use sampling and statistical knowledge to report a measurement to your boss. This is a form of **inferential** statistics, because you are drawing conclusions beyond just describing statistics of your sample data.
 
@@ -25,7 +25,7 @@ In order to understand and apply confidence intervals, this section covers three
 
 ### The Central Limit Theorem
 
-The Central Limit Theorem allows us to treat non-normal distributions as normal distributions, and provides a way for us to estimate parameters about a population.
+The Central Limit Theorem allows us to treat non-normal distributions as normal distributions and provides a way for us to estimate parameters about a population.
 
 ### Confidence Intervals
 
@@ -41,4 +41,4 @@ The t-distribution allows us to work with samples where the population standard 
 
 ## Summary
 
-Inferential statistics are powerful because they allow you to make claims about data that you don't have access to! A key aspect of making these kinds of claims is communicating your uncertainty appropriately, and confidence intervals can help. Once you have mastered this concept, you will move on to hypothesis testing and modeling techniques, which utilize the same general approach of making claims and communicating uncertainty about unknown values.
+Inferential statistics are powerful because they allow you to make claims about data that you don't have access to! A key aspect of making these kinds of claims is communicating your uncertainty appropriately, and confidence intervals can help. Once you have mastered this concept you will move on to hypothesis testing and modeling techniques, which utilize the same general approach of making claims and communicating uncertainty about unknown values.
