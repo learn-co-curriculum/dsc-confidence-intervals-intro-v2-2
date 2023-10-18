@@ -42,3 +42,6 @@ The t-distribution allows us to work with samples where the population standard 
 ## Summary
 
 Inferential statistics are powerful because they allow you to make claims about data that you don't have access to! A key aspect of making these kinds of claims is communicating your uncertainty appropriately, and confidence intervals can help. Once you have mastered this concept you will move on to hypothesis testing and modeling techniques, which utilize the same general approach of making claims and communicating uncertainty about unknown values.
+
+
+
